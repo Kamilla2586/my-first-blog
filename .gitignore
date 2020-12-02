@@ -7,6 +7,7 @@ __pychache__
 .env 
 myvenv/
 venv
+blog-venv/
 
 # Database
 db.sqlite3
